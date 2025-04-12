@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e8512d8f-a8ca-4447-b1a1-11a9603cbc69",
+    "firstName": "Андрій",
+    "lastName": null,
+    "patronymic": null,
+    "previousStudy": "Школа",
+    "faculty": "law"
+  },
+  {
+    "id": "fa91bdf8-2f49-470b-8d58-41f131982686",
+    "firstName": "Юлія",
+    "lastName": "Мельник",
+    "patronymic": "Олександрівна",
+    "previousStudy": "Гімназія №10",
+    "faculty": "engineering"
+  }
+]

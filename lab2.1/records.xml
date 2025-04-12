@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<records>
+  <record>
+    <id>e8512d8f-a8ca-4447-b1a1-11a9603cbc69</id>
+    <firstName>Максим</firstName>
+    <lastName>Москаленко</lastName>
+    <patronymic>Андрійович</patronymic>
+    <previousStudy>Гімназія №2</previousStudy>
+    <faculty>economics</faculty>
+  </record>
+  <record>
+    <id>fa91bdf8-2f49-470b-8d58-41f131982686</id>
+    <firstName>Юлія</firstName>
+    <lastName>Мельник</lastName>
+    <patronymic>Олександрівна</patronymic>
+    <previousStudy>Гімназія №10</previousStudy>
+    <faculty>engineering</faculty>
+  </record>
+</records>
